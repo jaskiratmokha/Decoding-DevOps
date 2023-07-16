@@ -11,3 +11,5 @@ You can also take reference from [Imran Teli's course on DevOps](https://www.ude
 ## Day-Wise Distribution of Topics
 
 - [✔️] ♾️ 1 > [Introduction](Days/day01.md)
+
+- [✔️] ♾️ 2 > [Version Control (Git and Github)](Days/day02.md)
